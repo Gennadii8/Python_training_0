@@ -1,0 +1,1 @@
+Execute command im cmd: java -jar jenkins.war from the directory, where jenkins.war is located (At the momets it's C:\Users\GennadiiMatveev\Downloads )

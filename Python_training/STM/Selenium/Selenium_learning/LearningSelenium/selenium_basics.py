@@ -488,7 +488,7 @@ class WaitsOperator:
     Fluent wait - possible to specify poll frequency and maximum time. Also can ignored_exceptions can be set.
     По факту это Explicit wait, но есть ещё уставноска частоты обновления и игнорирование каких-то исключений
     """
-    
+
     def implicit_wait_handler(self):
         driver.get("https://www.aviasales.ru/")
         driver.implicitly_wait(5)
@@ -583,8 +583,8 @@ if __name__ == "__main__":
     # finder_7.one_line_selector()
     # finder_7.few_lines_selector()
     # finder_7.display_all_suggestions()
-    # finder_7.choose_one_suggestion()
-    finder_7.choose_one_suggestion_hadle_exeption()
+    finder_7.choose_one_suggestion()
+    # finder_7.choose_one_suggestion_hadle_exeption()
     # finder_8.make_screenshot()
     # finder_9.operate_windows()
     # finder_10.dive_into_child_iframe()

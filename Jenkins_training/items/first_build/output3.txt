@@ -1,0 +1,16 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B66D-6530
+
+ Directory of C:\Users\GennadiiMatveev\Desktop\Training\Jenkins_training\items\first_build
+
+04-Oct-22  15:40    <DIR>          .
+04-Oct-22  15:40    <DIR>          ..
+04-Oct-22  14:58               472 output2.txt
+04-Oct-22  15:41                 0 output3.txt
+04-Oct-22  15:40    <DIR>          parameter_test
+04-Oct-22  15:40               675 parameter_test_output.txt
+04-Oct-22  14:55    <DIR>          test1
+04-Oct-22  14:58    <DIR>          test2
+04-Oct-22  15:05    <DIR>          test3
+               3 File(s)          1,147 bytes
+               6 Dir(s)  400,124,006,400 bytes free

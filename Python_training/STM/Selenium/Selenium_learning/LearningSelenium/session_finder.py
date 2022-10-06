@@ -81,4 +81,4 @@ if __name__ == "__main__":
             print("Слоты есть")
             make_noise()
             break
-        time.sleep(3)
+        time.sleep(300)
