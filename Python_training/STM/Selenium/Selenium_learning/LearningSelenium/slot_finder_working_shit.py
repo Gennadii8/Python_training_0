@@ -68,7 +68,7 @@ def start_search():
     action.pointer_action.pointer_up(MouseButton.FORWARD)
     action.perform()
 
-
+    time.sleep(2)
     # Press button 'Select time'
     select_time_button = wait.until(EC.element_to_be_clickable(
             (By.XPATH, "//button [@class='office-button office-button-DVV']"))).click()
